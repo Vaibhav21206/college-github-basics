@@ -6,3 +6,4 @@ Learning GitHub for college projects
 	"My Goals with GitHub"
 	"Steps I’ll Take to Get Comfortable with GitHub"
 •	Commit your changes with a message, like "Added initial sections to README".
+Learning more about 
